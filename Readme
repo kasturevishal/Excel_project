@@ -1,0 +1,60 @@
+# Swiggy Data Analysis Project 📊
+
+This project involves data analysis of Swiggy delivery data using Microsoft Excel. It aims to uncover patterns, trends, and insights related to food delivery performance, customer behavior, and sales.
+
+## 🔍 Project Overview
+
+- Analysis is based on real-world style food delivery data.
+- Includes summary statistics, pivot tables, charts, and dashboard elements.
+- Focus on KPIs like:
+  - Total orders
+  - Popular food items
+  - Delivery time analysis
+  - Area-wise performance
+  - Revenue trends
+
+## 📂 File Included
+
+- **SWIGGY PROJECT.xlsx**  
+  The main Excel file containing:
+  - Raw data
+  - Cleaned data
+  - Data analysis using pivot tables
+  - Interactive dashboards and charts
+
+## 🛠 Tools & Techniques Used
+
+- Microsoft Excel (Advanced)
+  - Pivot Tables
+  - Charts (Bar, Line, Pie)
+  - Slicers
+  - Conditional Formatting
+  - Data Validation
+  - Dashboard Design
+
+## 🎯 Key Insights
+
+- Identified top-performing items and delivery zones.
+- Calculated average delivery time per area.
+- Analyzed peak ordering hours and customer preferences.
+
+## 📌 Purpose
+
+This project was built to showcase skills in:
+- Data cleaning and visualization in Excel
+- Business insights from food delivery data
+- Dashboard creation for decision making
+
+---
+
+### 📎 How to Use
+
+1. Download the `.xlsx` file.
+2. Open in Microsoft Excel.
+3. Explore the pivot tables and charts.
+4. Use slicers and filters to interact with the dashboard.
+
+---
+
+> ⚠️ Note: This project is for learning and portfolio purposes only and does not represent actual Swiggy data.
+
